@@ -1,7 +1,7 @@
 # E commerce project  (documentation)
 
 ## Database
-![database-schema](https://github.com/gurkangokmen/ecommerce-app/assets/122023578/03526253-65b2-48d7-b980-4245001734f4)
+![database-schema]([https://github.com/gurkangokmen/ecommerce-app/assets/122023578/03526253-65b2-48d7-b980-4245001734f4](https://github.com/gurkangokmen/ecommerce-app/assets/122023578/336bfc7a-f3cf-4f6a-9fb1-7fcdbff1e47f))
 
 ## Api
 
